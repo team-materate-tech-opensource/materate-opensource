@@ -1,0 +1,12 @@
+Main Model:
+- Part 1 : Implement a function that takes Question as input(Question, Learning Outcomes list, difficulty of the Question) and outputs the ability of the student on various different ability (Learning Outcomes of the question is a subset of these learning outcome)
+- Part 2 : converting predicted Learning Outcomes to predicting concepts learning.
+- Part 3 : Update the concepts learning using the predicted concept learning in step 2.  
+- Part 4 : Based on the Knowledge graph of the student predict the next question.
+
+Knowledge Graph:
+- Must take input of the graph from a text file 
+    - Text file will give information like information about nodes
+    - Also it will contain information about the connection between different nodes.
+    - Operations that will be perform on the Knowledge graph are : 
+        - Graph Traversal 

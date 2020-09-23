@@ -1,0 +1,12 @@
+program takes input from an input file named concepts_data and then makes a node and then outputs
+the node number and the node address to the output file named output, when a node is deleted the
+address for that node is just assigned as "Deleted", There are various defined functions in the 
+code that are:-
+createnode - it creates a node of which the details are taken as arguments
+update - it updates the new node's neighbour's neighbour and their relations as a new node is creared 
+	above which changes it's neighbour's neighbours and their relations
+printnode - It takes the line number or key as the argument and prints th node's details
+deletenode- the node is deleted and the respectively the string "Deleted" is given to the output
+editnode - using the node's location the node's details are edited 
+bfs_traversal - traverse throut the graph
+get_levels - in this the levels array is returned which contains the keys and the respective levels

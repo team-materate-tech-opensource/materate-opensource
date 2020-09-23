@@ -1,0 +1,1 @@
+You need to change the WSGI path to `materate.wsgi:application` in environment configuration for the first time!

@@ -1,0 +1,8 @@
+I am making an graph using Networkx for all graph related query like finding neighbours adding nodes and edges etc.
+Also, I am mainting an dictionary to store all the information related the nodes of the graph like skills and any other details if necessary.
+
+Reason for using this approach:
+    - Easy to maintain graph.
+    - Easy to maintain nodes.
+    - If we decide to make an tree out of graph then space usage will be minimum.
+    - As the knowledge graph will be almost constant and will be updated rarely insertion, deletion, and edit can be O(n) but traversal in the graph is what matters the most.

@@ -1,0 +1,24 @@
+{
+  "Students": [
+    {
+      "name": "Arpit",
+      "id": "457483573894",
+      "school_name": "DSSS",
+      "score": 35
+    },
+    {
+      "name": "Raman",
+      "id": "767483573894",
+      "school_name": "Little flower's",
+      "score": 25
+    }
+  ],
+
+  "Scores": [
+    {
+      "max": 35,
+      "min": 1,
+      "avg": 17.14
+    }
+  ]
+}

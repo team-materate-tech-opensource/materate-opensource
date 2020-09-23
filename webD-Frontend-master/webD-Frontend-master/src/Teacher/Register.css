@@ -1,0 +1,39 @@
+.minh-100{
+  min-height: 100%;
+}
+
+.heading {
+  font-size: 48px;
+  color: #3c4041;
+  font-weight: bold;
+}
+
+.sub-heading {
+  color: #3c4041;
+  font: Regular 35px/40px Liberation Sans;
+  letter-spacing: 0px;
+}
+
+.sub-sub-heading {
+  font: Medium 20px/24px Montserrat;
+  letter-spacing: 0px;
+  color: #3c404140;
+  opacity: 1;
+  height: 24px;
+}
+
+.next .btn {
+  padding-top: 0%;
+  font-weight: 600;
+  width: 100%;
+  max-width: 300px;
+  margin: auto;
+  border-radius: 17px;
+  background-color: #0080fe  ;
+  padding-bottom: 0%;
+  
+}
+
+input {
+  border-radius: 10px !important;
+}

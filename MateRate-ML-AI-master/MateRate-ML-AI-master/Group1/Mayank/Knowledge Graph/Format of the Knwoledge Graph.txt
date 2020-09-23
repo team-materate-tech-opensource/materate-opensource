@@ -1,0 +1,8 @@
+The Knowledge graph has to be implemented from the text file and the information regarding the format of the text file is mentioned in this document.
+
+1) Line starting from '#' will be considered as comment and will be ignored. Important to note that any '#' in between the line will not be considered as the comment
+2) First n valid line(Lines that are not comment) will be information about nodes and will give information like name of the concept(This has to unique I am using this as the key for dictionary)
+3) Rest of the valid lines will contain information about the edges in the graph.
+
+Format of the lines denoting the information about the nodes.
+    - using " " to seprate the data

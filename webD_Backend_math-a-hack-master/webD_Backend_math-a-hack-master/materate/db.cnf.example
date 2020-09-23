@@ -1,0 +1,10 @@
+[client]
+# update the database details
+database = NAME
+user = USERNAME
+password = PASSWORD
+host = HOST
+port = PORT
+
+sql_mode = STRICT_TRANS_TABLES
+default-character-set = utf8
