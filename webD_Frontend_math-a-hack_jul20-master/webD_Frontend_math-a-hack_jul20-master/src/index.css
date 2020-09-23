@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html {
+    scroll-behavior: smooth;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.buttonBordered {
+    border: 2px solid #157ee7d0 !important;
+    color: #157ee7d0 !important;
+    border-radius: 50px !important;
+    background: linear-gradient(to right,rgb(253, 254, 255) ,rgb(230, 242, 255)) !important;
+    padding: 0.4rem 3.5rem !important;
+    transition: 0.45s !important;
+}
+.buttonBordered:hover {
+    color: white !important;
+    background: #157ee7d0 !important;
+}
+.cursor-pointer {
+    cursor: pointer;
+}

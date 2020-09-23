@@ -1,0 +1,213 @@
+<!-- 
+
+
+<svg xmlns="http://www.w3.org/2000/svg"  width="363.371" height="550.91" viewBox="0 0 363.371 550.91">
+  <defs>
+    <clipPath id="clip-path">
+      <path className="path-svg" id="Path_12394" data-name="Path 12394" d="M497,26.6,420.657-12.656A2.854,2.854,0,0,0,416.5-9.978l4.173,85.745a2.855,2.855,0,0,0,4.4,2.262l72.171-46.487A2.855,2.855,0,0,0,497,26.6ZM458.9,32.421,441.73,43.478a1.717,1.717,0,0,1-2.645-1.36l-.993-20.394a1.718,1.718,0,0,1,2.5-1.611l18.158,9.337A1.717,1.717,0,0,1,458.9,32.421Z" transform="translate(-416.497 12.976)" fill="none" stroke="#fff" strokeWidth="5"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path className="path-svg" id="Path_12394-2" data-name="Path 12394" d="M479.359,17.928,419.745-12.726a2.229,2.229,0,0,0-3.245,2.091l3.259,66.953a2.229,2.229,0,0,0,3.433,1.766l56.354-36.3A2.229,2.229,0,0,0,479.359,17.928ZM449.6,22.472l-13.4,8.634a1.341,1.341,0,0,1-2.065-1.062l-.775-15.924a1.341,1.341,0,0,1,1.953-1.258l14.178,7.291A1.341,1.341,0,0,1,449.6,22.472Z" transform="translate(-416.497 12.976)" fill="none" stroke="#fff" strokeWidth="5"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path className="path-svg" id="Path_24891" data-name="Path 24891" d="M80.66,69.135a37.441,37.441,0,0,0-50.349-3.9l-6.838-7.292L11.123,69.527,75.806,138.5l12.35-11.581-6.838-7.292A37.441,37.441,0,0,0,80.66,69.135ZM68.273,80.751A20.478,20.478,0,0,1,69.6,107.138L42.026,77.73A20.478,20.478,0,0,1,68.273,80.751Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_4119" data-name="Group 4119" transform="translate(-1538.668 -226.065)">
+    <g id="Group_4048" data-name="Group 4048" transform="matrix(0.788, -0.616, 0.616, 0.788, 1220.853, 543.229)">
+      <g id="Group_4029" data-name="Group 4029" transform="translate(416.497 -12.976)">
+        <g id="Group_4028" data-name="Group 4028" clipPath="url(#clip-path)">
+          <path className="path-svg" id="Path_1473" data-name="Path 1473" d="M497,26.6,420.657-12.656A2.854,2.854,0,0,0,416.5-9.978l4.173,85.745a2.855,2.855,0,0,0,4.4,2.262l72.171-46.487A2.855,2.855,0,0,0,497,26.6ZM458.9,32.421,441.73,43.478a1.717,1.717,0,0,1-2.645-1.36l-.993-20.394a1.718,1.718,0,0,1,2.5-1.611l18.158,9.337A1.717,1.717,0,0,1,458.9,32.421Z" transform="translate(-416.497 12.976)" fill="none" stroke="#fff" strokeWidth="5"/>
+        </g>
+      </g>
+      <g id="Group_4047" data-name="Group 4047" transform="translate(416.99 2.193)">
+        <g id="Group_4046" data-name="Group 4046">
+          <g id="Group_4045" data-name="Group 4045">
+            <g id="Group_4030" data-name="Group 4030" transform="translate(5.534 64.57)">
+              <line id="Line_130" data-name="Line 130" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4031" data-name="Group 4031" transform="translate(5.139 59.958)">
+              <line id="Line_131" data-name="Line 131" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4032" data-name="Group 4032" transform="translate(4.743 55.346)">
+              <line id="Line_132" data-name="Line 132" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4033" data-name="Group 4033" transform="translate(4.348 50.734)">
+              <line id="Line_133" data-name="Line 133" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4034" data-name="Group 4034" transform="translate(3.953 46.121)">
+              <line id="Line_134" data-name="Line 134" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4035" data-name="Group 4035" transform="translate(3.557 41.509)">
+              <line id="Line_135" data-name="Line 135" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4036" data-name="Group 4036" transform="translate(3.162 36.897)">
+              <line id="Line_136" data-name="Line 136" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4037" data-name="Group 4037" transform="translate(2.767 32.285)">
+              <line id="Line_137" data-name="Line 137" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4038" data-name="Group 4038" transform="translate(2.372 27.673)">
+              <line id="Line_138" data-name="Line 138" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4039" data-name="Group 4039" transform="translate(1.976 23.061)">
+              <line id="Line_139" data-name="Line 139" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4040" data-name="Group 4040" transform="translate(1.581 18.449)">
+              <line id="Line_140" data-name="Line 140" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4041" data-name="Group 4041" transform="translate(1.186 13.836)">
+              <line id="Line_141" data-name="Line 141" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4042" data-name="Group 4042" transform="translate(0.79 9.224)">
+              <line id="Line_142" data-name="Line 142" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4043" data-name="Group 4043" transform="translate(0.395 4.612)">
+              <line id="Line_143" data-name="Line 143" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4044" data-name="Group 4044">
+              <line id="Line_144" data-name="Line 144" y1="0.187" x2="5.021" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4049" data-name="Group 4049" transform="matrix(0.242, 0.97, -0.97, 0.242, 1608.552, 137.8)">
+      <g id="Group_4029-2" data-name="Group 4029" transform="translate(416.497 -12.976)">
+        <g id="Group_4028-2" data-name="Group 4028" clipPath="url(#clip-path-2)">
+          <path className="path-svg" id="Path_1473-2" data-name="Path 1473" d="M479.359,17.928,419.745-12.726a2.229,2.229,0,0,0-3.245,2.091l3.259,66.953a2.229,2.229,0,0,0,3.433,1.766l56.354-36.3A2.229,2.229,0,0,0,479.359,17.928ZM449.6,22.472l-13.4,8.634a1.341,1.341,0,0,1-2.065-1.062l-.775-15.924a1.341,1.341,0,0,1,1.953-1.258l14.178,7.291A1.341,1.341,0,0,1,449.6,22.472Z" transform="translate(-416.497 12.976)" fill="none" stroke="#fff" strokeWidth="5"/>
+        </g>
+      </g>
+      <g id="Group_4047-2" data-name="Group 4047" transform="translate(416.882 -1.131)">
+        <g id="Group_4046-2" data-name="Group 4046">
+          <g id="Group_4045-2" data-name="Group 4045">
+            <g id="Group_4030-2" data-name="Group 4030" transform="translate(4.321 50.419)">
+              <line id="Line_130-2" data-name="Line 130" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4031-2" data-name="Group 4031" transform="translate(4.012 46.818)">
+              <line id="Line_131-2" data-name="Line 131" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4032-2" data-name="Group 4032" transform="translate(3.704 43.217)">
+              <line id="Line_132-2" data-name="Line 132" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4033-2" data-name="Group 4033" transform="translate(3.395 39.615)">
+              <line id="Line_133-2" data-name="Line 133" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4034-2" data-name="Group 4034" transform="translate(3.086 36.014)">
+              <line id="Line_134-2" data-name="Line 134" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4035-2" data-name="Group 4035" transform="translate(2.778 32.412)">
+              <line id="Line_135-2" data-name="Line 135" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4036-2" data-name="Group 4036" transform="translate(2.469 28.811)">
+              <line id="Line_136-2" data-name="Line 136" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4037-2" data-name="Group 4037" transform="translate(2.161 25.21)">
+              <line id="Line_137-2" data-name="Line 137" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4038-2" data-name="Group 4038" transform="translate(1.852 21.608)">
+              <line id="Line_138-2" data-name="Line 138" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4039-2" data-name="Group 4039" transform="translate(1.543 18.007)">
+              <line id="Line_139-2" data-name="Line 139" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4040-2" data-name="Group 4040" transform="translate(1.235 14.405)">
+              <line id="Line_140-2" data-name="Line 140" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4041-2" data-name="Group 4041" transform="translate(0.926 10.804)">
+              <line id="Line_141-2" data-name="Line 141" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4042-2" data-name="Group 4042" transform="translate(0.617 7.203)">
+              <line id="Line_142-2" data-name="Line 142" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4043-2" data-name="Group 4043" transform="translate(0.309 3.601)">
+              <line id="Line_143-2" data-name="Line 143" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+            <g id="Group_4044-2" data-name="Group 4044">
+              <line id="Line_144-2" data-name="Line 144" y1="0.146" x2="3.921" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_4096" data-name="Group 4096" transform="translate(1491.967 681.165) rotate(-68)">
+      <g id="Group_4090" data-name="Group 4090">
+        <g id="Group_4089" data-name="Group 4089" clipPath="url(#clip-path-3)">
+          <path className="path-svg" id="Path_12395" data-name="Path 12395" d="M80.66,69.135a37.441,37.441,0,0,0-50.349-3.9l-6.838-7.292L11.123,69.527,75.806,138.5l12.35-11.581-6.838-7.292A37.441,37.441,0,0,0,80.66,69.135ZM68.273,80.751A20.478,20.478,0,0,1,69.6,107.138L42.026,77.73A20.478,20.478,0,0,1,68.273,80.751Z" fill="none" stroke="#fff" strokeWidth="5"/>
+        </g>
+      </g>
+      <g id="Group_4091" data-name="Group 4091" transform="translate(-1 1)">
+        <line id="Line_145" data-name="Line 145" x1="11.527" y1="12.315" transform="translate(30.415 65.25)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="3"/>
+        <line id="Line_146" data-name="Line 146" x1="11.877" y1="12.84" transform="translate(69.441 106.934)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="3"/>
+      </g>
+    </g>
+    <g id="Group_4093" data-name="Group 4093" transform="translate(1633.794 270.744) rotate(-43)">
+      <g id="Group_4090-2" data-name="Group 4090">
+        <g id="Group_4089-2" data-name="Group 4089" clipPath="url(#clip-path-3)">
+          <path className="path-svg" id="Path_12395-2" data-name="Path 12395" d="M80.66,69.135a37.441,37.441,0,0,0-50.349-3.9l-6.838-7.292L11.123,69.527,75.806,138.5l12.35-11.581-6.838-7.292A37.441,37.441,0,0,0,80.66,69.135ZM68.273,80.751A20.478,20.478,0,0,1,69.6,107.138L42.026,77.73A20.478,20.478,0,0,1,68.273,80.751Z" fill="none" stroke="#fff" strokeWidth="5"/>
+        </g>
+      </g>
+      <g id="Group_4091-2" data-name="Group 4091" transform="translate(-1 1)">
+        <line id="Line_145-2" data-name="Line 145" x1="11.527" y1="12.315" transform="translate(30.415 65.25)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="3"/>
+        <line id="Line_146-2" data-name="Line 146" x1="11.877" y1="12.84" transform="translate(69.441 106.934)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="3"/>
+      </g>
+    </g>
+    <path className="path-svg" id="Path_24892" data-name="Path 24892" d="M92.071,297.118l-6.222-16.244a1.58,1.58,0,0,0-2.042-.911L64.118,287.5l-7.543-19.689a1.581,1.581,0,0,0-2.042-.911l-16.244,6.222a1.58,1.58,0,0,0-.911,2.042l7.541,19.689L25.23,302.4a1.581,1.581,0,0,0-.911,2.042l6.222,16.244a1.58,1.58,0,0,0,2.042.911l19.689-7.542,7.543,19.689a1.581,1.581,0,0,0,2.042.911L78.1,328.434a1.58,1.58,0,0,0,.911-2.042L71.471,306.7l19.689-7.543A1.581,1.581,0,0,0,92.071,297.118Z" transform="translate(1347.555 280.045) rotate(-41)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="3"/>
+    <path className="path-svg" id="Path_24893" data-name="Path 24893" d="M113.565,306.722l-8.193-21.39a2.081,2.081,0,0,0-2.688-1.2l-25.926,9.93-9.932-25.926a2.081,2.081,0,0,0-2.688-1.2l-21.39,8.193a2.081,2.081,0,0,0-1.2,2.688l9.93,25.926-25.926,9.932a2.082,2.082,0,0,0-1.2,2.689l8.193,21.39a2.081,2.081,0,0,0,2.688,1.2l25.926-9.93,9.932,25.926a2.081,2.081,0,0,0,2.688,1.2l21.39-8.193a2.081,2.081,0,0,0,1.2-2.688l-9.93-25.926,25.926-9.932A2.081,2.081,0,0,0,113.565,306.722Z" transform="translate(1723.498 403.767) rotate(11)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="3"/>
+    <g id="Group_4100" data-name="Group 4100" transform="matrix(0.995, -0.105, 0.105, 0.995, 1378.966, 509.038)">
+      <g id="Group_4097" data-name="Group 4097" transform="translate(430.604 268.221)">
+        <rect id="Rectangle_1491" data-name="Rectangle 1491" width="55.072" height="13.324" rx="1.051" fill="none" stroke="#fff" strokeWidth="2.5"/>
+        <rect id="Rectangle_1492" data-name="Rectangle 1492" width="55.072" height="13.324" rx="1.051" transform="translate(0 23.094)" fill="none" stroke="#fff" strokeWidth="2.5"/>
+      </g>
+    </g>
+    <g id="Group_4101" data-name="Group 4101" transform="translate(1520.055 -41.185) rotate(22)">
+      <g id="Group_4097-2" data-name="Group 4097" transform="translate(430.604 268.221)">
+        <rect id="Rectangle_1491-2" data-name="Rectangle 1491" width="64.919" height="15.706" rx="1.051" fill="none" stroke="#fff" strokeWidth="2.5"/>
+        <rect id="Rectangle_1492-2" data-name="Rectangle 1492" width="64.919" height="15.706" rx="1.051" transform="translate(0 27.224)" fill="none" stroke="#fff" strokeWidth="2.5"/>
+      </g>
+    </g>
+    <g id="Group_4103" data-name="Group 4103" transform="translate(1667.614 190.519)">
+      <g id="Group_4102" data-name="Group 4102">
+        <rect id="Rectangle_1493" data-name="Rectangle 1493" width="37.649" height="9.073" rx="1.275" transform="translate(49.386 217.356) rotate(-43.414)" fill="none" stroke="#fff" strokeWidth="2"/>
+        <path className="path-svg" id="Path_24896" data-name="Path 24896" d="M59.714,193.371a5.162,5.162,0,1,1-7.3-.2A5.161,5.161,0,0,1,59.714,193.371Z" fill="none" stroke="#fff" strokeWidth="2"/>
+        <path className="path-svg" id="Path_24897" data-name="Path 24897" d="M80.142,214.961a5.162,5.162,0,1,1-7.3-.2A5.163,5.163,0,0,1,80.142,214.961Z" fill="none" stroke="#fff" strokeWidth="2"/>
+      </g>
+    </g>
+    <g id="Group_4104" data-name="Group 4104" transform="matrix(0.574, 0.819, -0.819, 0.574, 1990.58, 447.25)">
+      <g id="Group_4102-2" data-name="Group 4102" transform="translate(49.386 191.481)">
+        <rect id="Rectangle_1493-2" data-name="Rectangle 1493" width="56.12" height="13.525" rx="1.275" transform="translate(0 38.569) rotate(-43.414)" fill="none" stroke="#fff" strokeWidth="2"/>
+        <path className="path-svg" id="Path_24896-2" data-name="Path 24896" d="M64.086,194.163a7.695,7.695,0,1,1-10.878-.3A7.693,7.693,0,0,1,64.086,194.163Z" transform="translate(-48.691 -191.346)" fill="none" stroke="#fff" strokeWidth="2"/>
+        <path className="path-svg" id="Path_24897-2" data-name="Path 24897" d="M84.515,215.753a7.7,7.7,0,1,1-10.878-.3A7.7,7.7,0,0,1,84.515,215.753Z" transform="translate(-38.67 -180.753)" fill="none" stroke="#fff" strokeWidth="2"/>
+      </g>
+    </g>
+    <g id="Group_4110" data-name="Group 4110" transform="matrix(0.966, -0.259, 0.259, 0.966, 1509.245, 557.299)">
+      <g id="Group_4107" data-name="Group 4107" transform="translate(287.67 10.707)">
+        <path className="path-svg" id="Path_24898" data-name="Path 24898" d="M286.411,56.768l-7.48-2.8a1.1,1.1,0,0,1-.713-.964l-1.7-27.651a1.1,1.1,0,0,0-.713-.964l-5.25-1.967A1.1,1.1,0,0,1,269.905,21l1.987-5.3a1.1,1.1,0,0,1,1.419-.645l10.031,3.757a1.1,1.1,0,0,1,.713.964l1.317,21.384a1.1,1.1,0,0,0,2.042.5L310,4.389a1.1,1.1,0,0,1,1.329-.461l55.122,20.645a1.1,1.1,0,0,1,.645,1.419L362.46,38.377a1.1,1.1,0,0,1-1.419.646l-5.3-1.987a1.1,1.1,0,0,1-.646-1.419L356.97,30.6a1.1,1.1,0,0,0-.645-1.419l-41.644-15.6a1.1,1.1,0,0,0-1.33.461L287.74,56.307A1.1,1.1,0,0,1,286.411,56.768Z" transform="translate(-269.835 -3.858)" fill="none" stroke="#fff" strokeWidth="2"/>
+      </g>
+    </g>
+    <g id="Group_4111" data-name="Group 4111" transform="matrix(0.875, 0.485, -0.485, 0.875, 1606.783, 135.557)">
+      <g id="Group_4107-2" data-name="Group 4107" transform="translate(269.835 3.858)">
+        <path className="path-svg" id="Path_24898-2" data-name="Path 24898" d="M281.468,40.988l-5.249-1.966a.774.774,0,0,1-.5-.677l-1.2-19.4a.773.773,0,0,0-.5-.677l-3.685-1.381a.774.774,0,0,1-.453-1l1.394-3.722a.773.773,0,0,1,1-.453l7.039,2.636a.772.772,0,0,1,.5.677l.925,15.006a.773.773,0,0,0,1.433.354L298.023,4.231a.773.773,0,0,1,.933-.324L337.638,18.4a.773.773,0,0,1,.453,1l-3.255,8.691a.774.774,0,0,1-1,.453l-3.722-1.394a.774.774,0,0,1-.453-1l1.319-3.521a.773.773,0,0,0-.453-1L301.306,10.683a.774.774,0,0,0-.933.324L282.4,40.665A.774.774,0,0,1,281.468,40.988Z" transform="translate(-269.835 -3.858)" fill="none" stroke="#fff" strokeWidth="2"/>
+      </g>
+    </g>
+    <rect id="Rectangle_1494" data-name="Rectangle 1494" width="37.821" height="8.75" rx="0.847" transform="translate(1708.185 478.364)" fill="none" stroke="#fff" strokeWidth="2"/>
+    <rect id="Rectangle_1495" data-name="Rectangle 1495" width="37.821" height="8.75" rx="0.847" transform="translate(1576.185 737.364)" fill="none" stroke="#fff" strokeWidth="2"/>
+    <g id="Group_4113" data-name="Group 4113" transform="translate(1103.687 442.148)">
+      <path className="path-svg" id="Path_24899" data-name="Path 24899" d="M469.362,133.387l-6.049-8.961,6.049-9.337,6.049,9.337Z" fill="#fff" stroke="#fff" strokeWidth="1"/>
+      <path className="path-svg" id="Path_24900" data-name="Path 24900" d="M476.271,109.3l-4.114-6.095,4.114-6.35,4.114,6.35Z" fill="#fff" stroke="#fff" strokeWidth="1"/>
+      <path className="path-svg" id="Path_24901" data-name="Path 24901" d="M482.406,166.352l-2.959-5.056,2.959-4.567,2.959,4.567Z" fill="#fff" stroke="#fff" strokeWidth="1"/>
+    </g>
+    <g id="Group_4114" data-name="Group 4114" transform="translate(1293.692 483.148)">
+      <path className="path-svg" id="Path_24899-2" data-name="Path 24899" d="M469.362,133.387l6.049-8.961-6.049-9.337-6.049,9.337Z" transform="translate(22.897)" fill="#fff" stroke="#fff" strokeWidth="1"/>
+      <path className="path-svg" id="Path_24900-2" data-name="Path 24900" d="M476.271,109.3l4.114-6.095-4.114-6.35-4.114,6.35Z" transform="translate(0.8)" fill="#fff" stroke="#fff" strokeWidth="1"/>
+      <path className="path-svg" id="Path_24901-2" data-name="Path 24901" d="M482.406,166.352l2.959-5.056-2.959-4.567-2.959,4.567Z" transform="translate(-16.134)" fill="#fff" stroke="#fff" strokeWidth="1"/>
+    </g>
+    <g id="Group_4117" data-name="Group 4117" transform="translate(1725.56 386.058) rotate(118)">
+      <g id="Group_4115" data-name="Group 4115" transform="translate(19.458 51.697)">
+        <path className="path-svg" id="Path_24902" data-name="Path 24902" d="M81.662,51.7l-62.2,13.135L61.5,88.109Z" transform="translate(-19.458 -51.697)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+        <rect id="Rectangle_1498" data-name="Rectangle 1498" width="4.119" height="4.119" transform="translate(38.441 34.417) rotate(-61.03)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+        <path className="path-svg" id="Path_24903" data-name="Path 24903" d="M44.264,86.318a13.361,13.361,0,0,1-1.081,6.442" transform="translate(-35.611 -75.268)" fill="none" stroke="#fff" strokeMiterlimit="10" strokeWidth="2"/>
+      </g>
+    </g>
+  </g>
+</svg> -->
